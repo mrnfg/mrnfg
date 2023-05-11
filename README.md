@@ -5,7 +5,8 @@
 - 🌱 Attualmente sto imparando JavaScript
 - 💬 Sentiti libero di chiedermi qualsiasi cosa!
 - 👯 Non vedo l'ora di collaborare a un progetto
-- 🤔 Sto cercando aiuto per ottenere un lavoro come UX/UI Designer e/o Front-end Developer
+- 🤔 Sto cercando aiuto per ottenere un lavoro come Front-end Developer
+- 😍 UX/UI Design
 
 <!-- 
 
