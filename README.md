@@ -1,6 +1,7 @@
 ### 👋 Ciao!
 
-- ☮ Fai l'amore, non la guerra!
+- ☮ Facciamo l'amore, non la guerra! 
+
 - 📫 Contattami: ciao@marcelofioresi.com
 - 🌱 Attualmente sto imparando JavaScript
 - 💬 Sentiti libero di chiedermi qualsiasi cosa!
