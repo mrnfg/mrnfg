@@ -1,13 +1,13 @@
 ### 👋 Ciao!
 
+- 😍 UX/UI Design
 - ☮ Facciamo l'amore, non la guerra! 
-
 - 📫 Contattami: ciao@marcelofioresi.com
 - 🌱 Attualmente sto imparando JavaScript e React
 - 💬 Sentiti libero di chiedermi qualsiasi cosa!
 - 👯 Non vedo l'ora di collaborare a un progetto
 - 🤔 Sto cercando aiuto per ottenere un lavoro come Front-end Developer
-- 😍 UX/UI Design
+
 
 <!-- 
 
